@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "[20210505] Spring Boot Test"
-date: 2021-05-05 20:39 +0900
-last_modified_at: 2021-05-05 20:39 +0900
+date: 2021-05-05 20:39
+last_modified_at: 2021-05-05 20:39
 tags: [spring-boot-test]
 toc: true
 ---

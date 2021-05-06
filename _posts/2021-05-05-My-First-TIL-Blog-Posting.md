@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 나의 첫 Til Blog 포스팅
-date: 2021-05-05 15:53 +1500
-last_modified_at: 2021-05-05 15:53 +1500
+date: 2021-05-05 15:53
+last_modified_at: 2021-05-05 15:53
 tags: []
 toc: true
 ---

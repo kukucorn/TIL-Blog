@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "[20210506] 잘못 보낸 커밋(reset, revert)"
-date: 2021-05-06 01:36 +0900
-last_modified_at: 2021-05-06 01:36 +0900
+date: 2021-05-06 01:36
+last_modified_at: 2021-05-06 01:36
 tags: [git]
 toc: true
 ---
