@@ -3,7 +3,7 @@ layout: post
 title: "[20210505] Spring Boot Test"
 date: 2021-05-05 20:39
 last_modified_at: 2021-05-05 20:39
-tags: [spring-boot-test]
+tags: [spring-boot-test, test]
 toc: true
 ---
 
