@@ -1,5 +1,7 @@
 ## TIL(Today I Learned) 블로그
 
+Blog 주소 : <https://kukucorn.github.io/TIL-Blog/>
+
 ### 소개
 
 안녕하세요 구구콘의 TIL 블로그 입니다.
