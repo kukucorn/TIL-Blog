@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "[20210513] Emoji와 Emoji 호환 Encoding"
+title: "[20210513] Emoji😊와 Emoji 호환 Encoding"
 date: 2021-05-13 23:52
 last_modified_at: 2021-05-13 23:52
 tags: [MySQL, Encoding]
 toc: true
 ---
+
+> Emoji의 단축키는 (윈도우키) + (마침표) or (윈도우키) + (세미콜론) 이다.
 
 ## Emoji란?
 
