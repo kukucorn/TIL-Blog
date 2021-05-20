@@ -3,7 +3,7 @@ layout: post
 title: "[20210510] Client Test Using RestTemplate"
 date: 2021-05-10 23:40
 last_modified_at: 2021-05-10 23:40
-tags: [Test]
+tags: [test]
 toc: true
 ---
 
