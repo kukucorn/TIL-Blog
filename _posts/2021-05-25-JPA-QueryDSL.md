@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[20210525] SQL JOIN"
+title: "[20210525] JPA & QueryDSL"
 date: 2021-05-25 23:49
 last_modified_at: 2021-05-25 23:49
 tags: [jpa, querydsl]
