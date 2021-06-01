@@ -3,7 +3,7 @@ layout: post
 title: "[20210512] Remote Terminal Connection"
 date: 2021-05-12 22:57
 last_modified_at: 2021-05-12 22:57
-tags: [Remote Connection]
+tags: [remote connection]
 toc: true
 ---
 

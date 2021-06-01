@@ -3,7 +3,7 @@ layout: post
 title: "[20210513] Emoji😊와 Emoji 호환 Encoding"
 date: 2021-05-13 23:52
 last_modified_at: 2021-05-13 23:52
-tags: [MySQL, Encoding]
+tags: [mysql, encoding]
 toc: true
 ---
 

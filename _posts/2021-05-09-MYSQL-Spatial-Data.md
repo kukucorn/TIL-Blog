@@ -3,7 +3,7 @@ layout: post
 title: "[20210509] MySQL Spatial data"
 date: 2021-05-09 22:49
 last_modified_at: 2021-05-09 22:49
-tags: [MySQL]
+tags: [mysql]
 toc: true
 ---
 

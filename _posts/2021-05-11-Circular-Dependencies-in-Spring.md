@@ -3,7 +3,7 @@ layout: post
 title: "[20210511] Circular Dependencies in Spring"
 date: 2021-05-11 21:06
 last_modified_at: 2021-05-11 21:06
-tags: [Spring]
+tags: [spring]
 toc: true
 ---
 

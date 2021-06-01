@@ -3,7 +3,7 @@ layout: post
 title: "[20210514] CI & CD"
 date: 2021-05-14 21:55
 last_modified_at: 2021-05-14 21:55
-tags: [CI, CD]
+tags: [ci, cd]
 toc: true
 ---
 

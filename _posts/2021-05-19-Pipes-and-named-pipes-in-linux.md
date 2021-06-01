@@ -3,7 +3,7 @@ layout: post
 title: "[20210519] Pipes and named pipes in linux"
 date: 2021-05-19 21:38
 last_modified_at: 2021-05-19 21:38
-tags: [Linux]
+tags: [linux]
 toc: true
 ---
 

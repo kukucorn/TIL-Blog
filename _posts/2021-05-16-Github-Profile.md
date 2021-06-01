@@ -3,7 +3,7 @@ layout: post
 title: "[20210516] Github Profile"
 date: 2021-05-16 23:00
 last_modified_at: 2021-05-16 23:00
-tags: [Github]
+tags: [github]
 toc: true
 ---
 
