@@ -3,7 +3,7 @@ layout: post
 title: "[20210520] hashCode() & equals() in java"
 date: 2021-05-20 22:07
 last_modified_at: 2021-05-20 22:07
-tags: [Java]
+tags: [java]
 toc: true
 ---
 
