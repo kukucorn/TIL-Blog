@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "[20210701] (프로그래머스) 무지의 먹방 라이브"
+date: 2021-07-01 23:01
 last_modified_at: 2021-07-01 23:01
 tags: [algorithm]
 toc: true
