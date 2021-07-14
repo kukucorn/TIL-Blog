@@ -32,12 +32,18 @@ toc: true
 
 ### 인스턴스 복사(복제) : clone 메소드
 
-인스턴스의 복사를 위해서는 Cloneable 인터페이스를 구현해야 한다. 하지만, Cloneable은 빈 인터페이스이다.
-하지만 Object.clone이 protected로 선언되어 있어 clone 메소드를 오버라이딩 해서 public으로 변경해야한다.
-또한 Cloneable 인터페이스를 구현하지않고 clone메소드를 사용하면 CloneNotSupportedException 예외가 발생한다.
+- 인스턴스의 복사를 위해서는 Cloneable 인터페이스를 구현해야 한다. 하지만, Cloneable은 빈 인터페이스이다.
+- 하지만 Object.clone이 protected로 선언되어 있어 clone 메소드를 오버라이딩 해서 public으로 변경해야한다.
+- 또한 Cloneable 인터페이스를 구현하지않고 clone메소드를 사용하면 CloneNotSupportedException 예외가 발생한다.
 
 clone 메소드를 그냥 사용하게되면 얕은 복사가 된다.
 깊은 복사를 위해서는 직접 깊은 복사를 위한 코딩을 해야한다.
 
 (팁) String은 깊은 복사를 하지 않아도된다.
 왜? why? String은 변경 불가능한 객체이기 때문!
+
+---
+
+### 출처
+
+윤성우 저, 난 정말 java를 공부한 적이 없다구요
