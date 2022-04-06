@@ -3,7 +3,7 @@ layout: post
 title: "[20210626] LIS(최장 증가 부분 수열)"
 date: 2021-06-26 21:12
 last_modified_at: 2021-06-26 21:12
-tags: [algorithm]]
+tags: [algorithm]
 toc: true
 ---
 
