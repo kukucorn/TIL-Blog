@@ -51,7 +51,9 @@ db.sales.find({ saleDate: {$gte: new Date('2017-07-01') } }, { _id: 0, "customer
 \_id를 명시적으로 projection 하지 않겠다고 한 이유는 MongoDB가 기본적으로 \_id를 항상 projection 하기 때문이다.  
 이제 COLLSCAN stage가 제거되고, IXSCAN(인덱스 탐색)을 하게 된다.  
 하지만, 예상과 다르게 FETCH(실제 데이터를 가져오는 과정)는 제거되지 않았다.  
-customer는 Object 타입인데 Object 타입으로 인덱스를 생성해서 발생하는 문제로 보인다.
+customer는 Object 타입인데 Object 타입으로 인덱스를 생성해서 발생하는 문제로 보인다.  
+(2022.04.06 수정) 이를 embedded document라고 하기도 한다. MongoDB 3.6부터는 embedded document의 필드로도 query를 cover할 수 있다고 한다([참고](https://www.mongodb.com/docs/manual/core/query-optimization/#covered-query))  
+그런데, 위의 경우처럼 embedded document를 index column으로 지정하고, embedded document의 필드를 사용하게 되면 FETCH가 발생한다.(충분히 FETCH를 생략한 Covered Query를 할 수 있을 것 같은데 생각처럼 되지 않는다...)
 
 그래서 인덱스 생성을 조금만 달리 해보았다.
 
